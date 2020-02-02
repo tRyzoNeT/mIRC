@@ -1,5 +1,3 @@
+FiSH 10 - Blowfish Encryption Add-On for mIRC 7
 
-mIRC :: Addons SECTiON
-
-    Re-Coder au gout du jour!! XD
-
+site officiel :: https://syndicode.org/fish_10/
