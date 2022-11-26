@@ -12,7 +12,7 @@ mAUTH... ce code tres simple est un ADDONS pour 'mIRC' que l'ont ajoute au progr
 - logout **je trouve cella iNUTiLE mais rester dans la 'GAMES'**
 - !chgpass (nouveau-mot-de-passe) **cette options peut etre activer ou desactiver**
 
-# #CONFiGURATiON
+# CONFiGURATiON
 - Une interface style 'MENU' via 'mIRC' pour une configuration simple, eviter toute config manuel... Une evolution en fin de 2022!!!
 
 # SUGESTiON & AUTRE
