@@ -2,7 +2,7 @@ A SUiVRE....
 
 <b>iNDEXATiON</b> ::
 
-<a href="#mAUTH">mAUTH</a> / <a href="#FONCTiON (de base)">FONCTiON-(de-base)</a> / <a href="#CONFiGURATiON">CONFiG</a> / <a href="#SUGESTiON-&-AUTRE">SUGESTiON & AUTRE</a>
+<a href="#mAUTH">mAUTH</a> / <a href="#FONCTiON-(de-base)">FONCTiON-(de-base)</a> / <a href="#CONFiGURATiON">CONFiG</a> / <a href="#SUGESTiON-&-AUTRE">SUGESTiON & AUTRE</a>
 
 # mAUTH
 mAUTH... ce code tres simple est un ADDONS pour 'mIRC' que l'ont ajoute au programme, il permet d'identifier les 'UTiLiSATEUR' ajouter par l'aministrateur du bot et de gerer vos commandes par des 'ACCESS' et des 'ROLES' specifique a vous.
