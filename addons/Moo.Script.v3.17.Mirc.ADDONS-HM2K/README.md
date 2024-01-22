@@ -1,4 +1,4 @@
-.oO{ moo script v3.17 by HM2K }Oo. - IRC@HM2K.ORG
+.oO{ moo script v3.17 by HM2K }Oo. - IRC@HM2K.ORG - http://hm2k.com/projects/moo
 
 description:
 no more moo.dll! -- this script uses $com to lookup the WMI functions to return specified system information.
