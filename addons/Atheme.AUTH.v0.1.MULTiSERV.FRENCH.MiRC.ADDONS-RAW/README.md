@@ -19,7 +19,7 @@ Tout se résume à un simple clic.
 ** Un dossier <b>aauth</b> sera créé lors du chargement de cette addons, NE PAS SUPRiMER.
 - CHARGÉ le .mrc a votre MiRC 7.76+
 - Sur le channel bouton droit et vous verrez une section ATHeMe.
-- important CONFiG chaque réseau avant d'enregistrer ou changer votre pass & email.
+- important CONFiG chaque réseau avant d'enregistrer ou changer votre pass & email et ou autre modification...
 
 ## SUGESTiON & AUTRE
 
