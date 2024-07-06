@@ -10,7 +10,7 @@
 ;*** sorry for my bad english XD                  ***
 ;****************************************************
 
-menu channel {
+menu status,channel {
   DRFTPD4 CMD:/drftpd4
 }
 
